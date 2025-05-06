@@ -121,7 +121,7 @@ npm run dev
 ## 🛡️ Security Best Practices
 
 - OTP verification before any access
-- JWT-based token expiration (`1d`)
+- JWT-based token expiration 
 - Drizzle schema validation
 - Email/password stored only in `.env`
 - Route-based ownership validation
